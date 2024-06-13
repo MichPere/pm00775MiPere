@@ -1,3 +1,0 @@
-funkcje:
-- odczyt temperatury z czujnika DS18B20: readDS18b20
-- zapis wartości ustawionej temperatury do pliku.
