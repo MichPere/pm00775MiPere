@@ -1,0 +1,12 @@
+{
+    "DS18B20_CO":{
+        "path":"/sys/bus/w1/devices/28-21c1d4466afd/w1_slave"
+    },
+
+    "DS18B20_CW":{
+        "path":"/sys/bus/w1/devices/28-21c1d4466afd/w1_slave"
+    },
+    "PCF8574_01":{
+        "address":"0x20"
+    }
+}
